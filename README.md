@@ -1,2 +1,1 @@
-# camera_calibration
-camera calibration project
+Files for calibration labs at École Centrale de Nantes
